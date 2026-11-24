@@ -23,4 +23,13 @@ Real estate executives require high-level commercial visibility and granular mar
 3. **Interactive Reporting:** Implemented cross-filtering, dynamic slicers, and town benchmarking matrices to facilitate clear **Communication** with executive stakeholders.
 
 ---
+
+## Download the Original Power BI Project
+
+Access the original two-page Power BI dashboard
+(.pbix) through OneDrive.
+
+[Download Power BI Project](https://1drv.ms/u/c/be5c267d2c43e3fe/IQBhb-wpc8ZPSKiRGQmMs8EbAVqSk4C3KN73KFDcxzDXCX4?e=4BvyaM)]
+
+---
 *Developed by Emmanuel Ottoh | Data Analyst & BI Developer*
